@@ -1,0 +1,13 @@
+<!--Menamplikan suatu box text yang bisa diisi-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:padding="16dp"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+<!-- Memunculkan button untuk melakukan register   -->
+    <Button
+        android:id="@+id/btnLogin"
+        android:text="Go to Register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

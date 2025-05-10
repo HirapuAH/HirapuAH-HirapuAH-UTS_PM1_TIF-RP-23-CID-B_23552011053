@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#FF9800">
+
+<!--    disini warna bagian splashcreen bisa diatur sesuai kebutuhan-->
+
+    <TextView
+        android:text="Splash Screen"
+        android:textSize="24sp"
+        android:textColor="#FFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
+
+<!--dan disini bisa di atur ukuran dari icon splashcreenya (maaf bu saya tidak pakai gambar soalnya setiap kali dipakai gambarnya error mungkin emang masalah device saya yang sudah tua)-->
